@@ -1,10 +1,10 @@
 - Create user
-![alt text](image.png)
+![alt text](C.PostUser.png)
 - Get all users
-![alt text](image-1.png)
+![alt text](C.getAll.png)
 - Put user
-![alt text](image-2.png)
+![alt text](C.putUser.png)
 - Get user
-![alt text](image-3.png)
+![alt text](C.getUser.png)
 - Delete user
-![alt text](image-4.png)
+![alt text](C.DeleteUser.png)
